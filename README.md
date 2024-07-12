@@ -14,30 +14,29 @@ We have a separate train and test set, in which test set is without the Target V
 
 We will be having the following columns:
 
-•	PassengerId - A unique identifier for each passenger.
+PassengerId - A unique identifier for each passenger.
 
-•	Survived - Survival indicator (0 = No, 1 = Yes) [Target Variable].
+Survived - Survival indicator (0 = No, 1 = Yes) [Target Variable].
 
-•	Pclass - Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd).
+Pclass - Passenger class (1 = 1st, 2 = 2nd, 3 = 3rd).
 
-•	Name - Name of the passenger.
+Name - Name of the passenger.
 
-•	Sex - Sex of the passenger.
+Sex - Sex of the passenger.
 
-•	Age - Age of the passenger.
+Age - Age of the passenger.
 
-•	SibSp - Number of siblings/spouses aboard the Titanic.
+SibSp - Number of siblings/spouses aboard the Titanic.
 
-•	Parch - Number of parents/children aboard the Titanic.
+Parch - Number of parents/children aboard the Titanic.
 
-•	Ticket - Ticket number.
+Ticket - Ticket number.
 
-•	Fare - Passenger fare.
+Fare - Passenger fare.
 
-•	Cabin - Cabin number.
+Cabin - Cabin number.
 
-•	Embarked - Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
-
+Embarked - Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 **Project Description:**
 
