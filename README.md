@@ -52,7 +52,7 @@ Embarked - Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 **Observation:**
 
-LightGBM Model performs better in this project when compared to other models.
+•	LightGBM Model performs better in this project when compared to other models.
 
 **Skills:** Exploratory Data Analysis · Machine Learning · Logistic Regression · Decision Trees · LightGBM · XGBoost · Extra Tree Classifier · Data Pre-Processing · Feature Engineering · Cross Validation
 
